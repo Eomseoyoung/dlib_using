@@ -1,4 +1,4 @@
-# dlib으로 얼굴추출하기
+# dlib_사용
 ### 안녕 나는 서영이 내가 만들고 다시 못할까봐 정리해서 올려 자 시작해보자
 ## 필요패키지
 ***
@@ -69,9 +69,9 @@ cmd창으로 들어갔으면
 
 ## 예제실행(얼굴부분추출)
 
-밑에 파일위치로 들어가보렴 
+밑에 파일위치로 들어가보렴 나는 바탕화면에 자주 깔아서 위치가 다를 수 있어~~
 
-**C:\Users\Downloads\face_recognition-master\examples**
+**C:\Users\Downloads\face_recognition-master\examples** 
 
 밑에 파일이 보이지? 거기에 니가 첨부하고 싶은 사진을 파란색 동그라미에 적고 그 사진위치를 examples에 넣어!
 
@@ -84,7 +84,7 @@ cmd창으로 들어갔으면
 
 ![result](https://user-images.githubusercontent.com/105179675/179670005-4d0d4af0-4be6-48db-ab62-451d21dfecde.PNG)
 
-이제 끝이야!! 아직 vscode로 실행을 안 시켜봐서 그것도 된다면 적어놓을게~~~~~~~~~`
+이제 끝이야!! 
 
 ## 참고한 링크
 ***
